@@ -1,2 +1,1 @@
-# Pixel-Tap-Auto-Clicker
-Pixel-Tap-Auto-Clicker
+# Gemz-Auto-Clicker-Powerful
